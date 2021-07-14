@@ -2,6 +2,7 @@
 A ticketmachine for a covalent support bot
 
 The code is also available at https://replit.com/@KishanHartog/CovalentBot#main.py
+In order for it to work a Discord bot token needs to be created and added as a environment variable with the name TOKEN
 
 This code is run on replit.com to run it continuously. 
 To keep it alive a UptimeRobot link is created that pings it every five minutes. 
